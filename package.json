@@ -1,0 +1,44 @@
+{
+  "name": "google-map-react-examples",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://itsmichaeldiego.github.io/react/",
+  "dependencies": {
+    "@rebass/grid": "^6.0.0-4",
+    "firebase": "^5.7.0",
+    "google-map-react": "^1.0.0",
+    "lodash.isempty": "^4.4.0",
+    "prop-types": "^15.6.1",
+    "randomstring": "^1.1.5",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-geocode": "^0.1.2",
+    "react-geolocated": "^2.4.0",
+    "react-phone-number-input": "^2.2.19",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.1",
+    "react-spinners": "^0.4.7",
+    "react-timer-mixin": "^0.13.4",
+    "rebass": "^3.0.0",
+    "styled-components": "^3.4.10",
+    "styled-tools": "^1.6.0"
+  },
+  "scripts": {
+    "lint": "eslint src",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
+    "gh-pages": "^1.2.0"
+  }
+}
