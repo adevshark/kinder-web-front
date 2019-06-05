@@ -1,6 +1,15 @@
-# Examples for [google-map-react library](https://github.com/google-map-react/google-map-react) &middot; [![Build Status](https://travis-ci.org/google-map-react/google-map-react-examples.svg?branch=master)](https://travis-ci.org/google-map-react/google-map-react-examples)
+# Web Front-end for Kinder
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+You can find a demo video [here](https://youtu.be/2tRUc4uiia8).
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2tRUc4uiia8
+" target="_blank"><img src="http://img.youtube.com/vi/2tRUc4uiia8/1.jpg" 
+alt="Kinder App" width="480" height="360" border="10" /></a>
+
+
+## Used [google-map-react library](https://github.com/google-map-react/google-map-react) &middot; [![Build Status](https://travis-ci.org/google-map-react/google-map-react-examples.svg?branch=master)](https://travis-ci.org/google-map-react/google-map-react-examples)
 
 ## Stack
 
@@ -8,7 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [React-router](https://reacttraining.com/react-router/) for routing
 - [Styled components](https://www.styled-components.com/) for styling our components
 
-## Examples:
+## Google Map Examples:
 
 - [Main example](https://google-map-react.github.io/google-map-react-examples/)
 
